@@ -33,7 +33,7 @@ public class ModuleManager {
         this.modules.add(new CpsDisplay());
         this.modules.add(new ESP());
         this.modules.add(new Fullbright());
-        this.modules.add(new AutoLeave());
+        //this.modules.add(new AutoLeave());
         this.modules.add(new Sprint());
         this.modules.add(new Timer());
         this.modules.add(new Effects());              
