@@ -6,21 +6,20 @@ Si no lo haces me pondre muy triste :c
 
 Y tu no quieres eso verad?
 
-nah bueno pasala bien crack y recuerda el **dicho** :
+nah bueno pasala bien y recuerda el **dicho** :
 
 "**El que diga que Un Mod Tiene Virus sin haber visto el src, Es un Pendejo.**"
 
-**PRINCIPALES CAMBIOS DE LA ACTUALIZACIÓN 2.5 :**
-- AimAssist Ahora Es Mucho Mas Indetectable
-- ChatBypass Removido
+**PRINCIPALES CAMBIOS DE LA ACTUALIZACIÓN 3.0:**
+- AimAssist Mas Indetectable
 - AutoClicker Mejorado
-- Bhop Removido
-- Mejoras en el sistema de autosave
-- Concistencia del color effects,cpsdisplay y hud 
-- Configuracion añadida para DelayFix
-- KeepSprint Removido
-- Configuracion añadida para AutoWeapon
-- Y otras cosas mas
+- Sistema completo de gestor de configuraciones
+- **GUI** Completamente nueva (parece otro cliente)
+- Rendimiento optimizado
+- Codigo basura removido
+- **Blink y Backtrack Añadidos**
+- Mejora considerable en todo el proyecto
+- Y otras cosas massss (me da flojera ponerlo aqui)
 
 Y Perdon Si Ves Fallos Ortográficos, Codigos Desordenados, Codigo Inecesario, etc. También Aprovecho A Agradecer Al Equipo De **lowkey, herocode, Liquidbounce, raven b++, y skilled**, Ya Que Me Pude Guiar De Algunos De Sus Módulos.
 
